@@ -1,0 +1,11 @@
+C:\Users\ing_s\source\repos\RazorPagesTutorial\RazorPagesTutorial.Services\bin\Debug\netstandard2.0\RazorPagesTutorial.Services.deps.json
+C:\Users\ing_s\source\repos\RazorPagesTutorial\RazorPagesTutorial.Services\bin\Debug\netstandard2.0\RazorPagesTutorial.Services.dll
+C:\Users\ing_s\source\repos\RazorPagesTutorial\RazorPagesTutorial.Services\bin\Debug\netstandard2.0\RazorPagesTutorial.Services.pdb
+C:\Users\ing_s\source\repos\RazorPagesTutorial\RazorPagesTutorial.Services\bin\Debug\netstandard2.0\RazorPagesTutorial.Models.dll
+C:\Users\ing_s\source\repos\RazorPagesTutorial\RazorPagesTutorial.Services\bin\Debug\netstandard2.0\RazorPagesTutorial.Models.pdb
+C:\Users\ing_s\source\repos\RazorPagesTutorial\RazorPagesTutorial.Services\obj\Debug\netstandard2.0\RazorPagesTutorial.Services.csprojAssemblyReference.cache
+C:\Users\ing_s\source\repos\RazorPagesTutorial\RazorPagesTutorial.Services\obj\Debug\netstandard2.0\RazorPagesTutorial.Services.AssemblyInfoInputs.cache
+C:\Users\ing_s\source\repos\RazorPagesTutorial\RazorPagesTutorial.Services\obj\Debug\netstandard2.0\RazorPagesTutorial.Services.AssemblyInfo.cs
+C:\Users\ing_s\source\repos\RazorPagesTutorial\RazorPagesTutorial.Services\obj\Debug\netstandard2.0\RazorPagesTutorial.Services.csproj.CopyComplete
+C:\Users\ing_s\source\repos\RazorPagesTutorial\RazorPagesTutorial.Services\obj\Debug\netstandard2.0\RazorPagesTutorial.Services.dll
+C:\Users\ing_s\source\repos\RazorPagesTutorial\RazorPagesTutorial.Services\obj\Debug\netstandard2.0\RazorPagesTutorial.Services.pdb
